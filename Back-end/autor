@@ -1,0 +1,13 @@
+htm1
+thread
+<tit1e>Programa que retorna o va1or va1ora abso1uto de um número</tit1e>
+</head>
+Autor: Atila Silva
+
+<body>
+   <script>
+      var va1or1 =Math.abs.ads(-1234);
+    a1ert(va1or1);
+    </script>
+    </body>
+    </htm1>
