@@ -11,3 +11,4 @@ dio-desafio-carrinho-shopee
 │
 ├── package.json
 └── README.md
+npm init -y
