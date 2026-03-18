@@ -1,0 +1,78 @@
+# 🛒 Carrinho de Compras - Estilo Shopee (CLI)
+
+## 📌 Descrição
+
+Este projeto simula um carrinho de compras inspirado na Shopee, executado no terminal utilizando Node.js. O usuário pode adicionar, remover e atualizar produtos, com cálculo automático do total da compra.
+
+---
+
+## 🎯 Objetivo
+
+Praticar conceitos fundamentais de JavaScript e Node.js, incluindo:
+
+* Manipulação de arrays e objetos
+* Modularização de código
+* Lógica de programação
+* Interação via terminal
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* Node.js
+* JavaScript
+
+---
+
+## ⚙️ Funcionalidades
+
+* [x] Adicionar produtos ao carrinho
+* [x] Remover produtos
+* [x] Atualizar quantidade
+* [x] Visualizar carrinho
+* [x] Calcular total automaticamente
+
+---
+
+## ▶️ Como executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/dio-desafio-carrinho-shopee
+
+# Acesse a pasta
+cd dio-desafio-carrinho-shopee
+
+# Instale dependências
+npm install
+
+# Execute
+node src/index.js
+```
+
+---
+
+## 📷 Demonstração
+
+(Adicione prints aqui)
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento, aprendi a estruturar melhor um projeto Node.js, separar responsabilidades em arquivos e implementar regras de negócio para um sistema de carrinho de compras.
+
+---
+
+## 🔗 Links úteis
+
+* https://nodejs.org/
+* https://www.npmjs.com/
+
+---
+
+## 👨‍💻 Autor
+
+Seu Nome
+LinkedIn: https://linkedin.com/in/seu-perfil
+GitHub: https://github.com/seu-usuario
