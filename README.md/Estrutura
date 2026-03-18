@@ -1,0 +1,13 @@
+dio-desafio-carrinho-shopee
+│
+├── src
+│   ├── models
+│   │   └── cart.js
+│   ├── services
+│   │   └── cartService.js
+│   ├── utils
+│   │   └── menu.js
+│   └── index.js
+│
+├── package.json
+└── README.md
