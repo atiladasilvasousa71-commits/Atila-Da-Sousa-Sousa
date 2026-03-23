@@ -1,1 +1,8 @@
 node index.js
+
+npm install qrcode-terminal prompt-sync
+
+mkdir qrcode-generator
+cd qrcode-generator
+
+npm init -y
