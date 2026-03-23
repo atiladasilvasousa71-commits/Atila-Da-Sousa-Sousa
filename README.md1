@@ -1,0 +1,39 @@
+📱 Gerador de QR Code com Node.js
+📌 Descrição
+
+Este projeto é um gerador de QR Codes desenvolvido com Node.js, executado diretamente no terminal.
+
+Ele permite gerar QR Codes de links de produtos (ou qualquer URL), facilitando o acesso rápido via dispositivos móveis — ideal para e-commerces.
+
+🚀 Tecnologias utilizadas
+Node.js
+qrcode-terminal
+prompt-sync
+⚙️ Como executar o projeto
+1. Clone o repositório
+git clone https://github.com/seu-usuario/qrcode-generator.git
+2. Acesse a pasta
+cd qrcode-generator
+3. Instale as dependências
+npm install
+4. Execute o projeto
+node src/index.js
+💡 Funcionalidades
+Geração de QR Code via terminal
+Entrada dinâmica de links
+Uso simples e rápido
+🔗 Exemplo de uso
+
+Digite um link quando solicitado e visualize o QR Code diretamente no terminal.
+
+📈 Melhorias futuras
+Exportação de QR Code como imagem PNG
+Interface interativa no terminal
+Validação de URL
+🧑‍💻 Autor
+
+Seu nome aqui
+
+📎 Links úteis
+https://www.npmjs.com/package/qrcode-terminal
+https://nodejs.org/
