@@ -1,0 +1,6 @@
+qrcode-generator/
+│
+├── src/
+│   └── index.js
+├── package.json
+└── README.md
